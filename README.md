@@ -33,6 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div>
 
-## 🔨 Tech Stack 🔨
-
-
+## 🔨 Tools 🔨
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</div>
