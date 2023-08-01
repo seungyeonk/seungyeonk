@@ -43,4 +43,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonk&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonk&show_icons=true)]
