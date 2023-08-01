@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## 🌱 currently Studying 🌱
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> 
     
 </div>
