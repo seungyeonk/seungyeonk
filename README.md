@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonk&show_icons=true)
 
-## 🔨 Tech Stack 🔨
+## 🔨 Tech Stack 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## 🔨 Tools 🔨
+## 🔨 Tools 
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-## 🌱 currently Studying 🌱
+## 🌱 currently Studying 
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> 
