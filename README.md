@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Notion-4A154B?style=flat-square&logo=android&logoColor=white"/>
 </div>
 
