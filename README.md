@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
 
 <!-- ## 💻 DEV's log 💻
